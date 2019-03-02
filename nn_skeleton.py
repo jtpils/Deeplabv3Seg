@@ -5,6 +5,7 @@
 # Copyright (c) 2019, SeriouslyHAO
 # Copyright (c) 2019, xcj2019
 # Copyright (c) 2019, Leonfirst
+# Copyright (c) 2018, rishizek
 # Copyright (c) 2017, Bichen Wu
 #
 #
